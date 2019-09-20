@@ -6,8 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-  - ruby 2.6.3p62
-
+ 
 * System dependencies
 
 * Configuration
@@ -22,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Edit from ipad pro using buffer editer
